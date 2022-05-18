@@ -1,6 +1,8 @@
 Atualmente estou apenas em busca de conhecimento e curtindo os prazeres da vida.
+
 <br />
 ### Focos Atuais
+
 <br />
 
 <img align="left" alt="HTML" width="26px"
@@ -18,4 +20,5 @@ Instagram: https://www.instagram.com/vitorwanferreira/
 Twitter: https://twitter.com/vitorwferreira
 <br />
 Facebook: Vitor Hugo Ferreira 
-Linkedin :  https://www.linkedin.com/in/vitor-hugo-wancenbock-ferreira/
+<br />
+Linkedin: https://www.linkedin.com/in/vitor-hugo-wancenbock-ferreira/
