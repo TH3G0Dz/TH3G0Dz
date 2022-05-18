@@ -18,4 +18,4 @@ Instagram: https://www.instagram.com/vitorwanferreira/
 Twitter: https://twitter.com/vitorwferreira
 <br />
 Facebook: Vitor Hugo Ferreira 
-
+Linkedin :  https://www.linkedin.com/in/vitor-hugo-wancenbock-ferreira/
