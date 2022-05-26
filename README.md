@@ -1,4 +1,6 @@
-# ***Olá eu sou o Vitor, e aqui estão todas as minhas informações:***
+<h1 align="center">
+  Olá eu sou o Vitor, e aqui estão todas as minhas informações:
+</h1>
 
 <div align="center" display="inline">
   <a href="https://github.com/TH3G0Dz">
